@@ -7,3 +7,8 @@ Given the reviews table, write a query to retrieve all 3-star reviews using the 
 SELECT user_id,stars FROM reviews 
 WHERE stars=3;
 ```
+### 2. SQL SELECT
+Output all the data, in all the columns.
+```sql
+SELECT * FROM products;
+```
